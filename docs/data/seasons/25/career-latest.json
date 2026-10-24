@@ -1,4 +1,4 @@
-{"season":25,"generatedAt":1792818817500,"rows":[
+{"season":25,"generatedAt":1792821243796,"rows":[
 {"player":"DarthKcaj-1443","hero":"all-heroes","time":1792843200000,"eliminations":1078,"deaths":564,"assists":656,"healingDone":266308,"healingPer10Min":3288,"gamesWon":40,"gamesPlayed":72,"winPercentage":null,"timePlayed":48596},
 {"player":"DarthKcaj-1443","hero":"ana","time":1792843200000,"eliminations":9,"deaths":9,"assists":12,"healingDone":4494,"healingPer10Min":4511,"gamesWon":0,"gamesPlayed":1,"winPercentage":null,"timePlayed":598},
 {"player":"DarthKcaj-1443","hero":"anran","time":1792843200000,"eliminations":4,"deaths":8,"assists":null,"healingDone":370,"healingPer10Min":722,"gamesWon":4,"gamesPlayed":1,"winPercentage":null,"timePlayed":308},
@@ -26,7 +26,7 @@
 {"player":"DarthKcaj-1443","hero":"ramattra","time":1792843200000,"eliminations":50,"deaths":17,"assists":5,"healingDone":130,"healingPer10Min":49.03,"gamesWon":0,"gamesPlayed":2,"winPercentage":20,"timePlayed":1590},
 {"player":"DarthKcaj-1443","hero":"reaper","time":1792843200000,"eliminations":1,"deaths":4,"assists":null,"healingDone":363,"healingPer10Min":1123,"gamesWon":0,"gamesPlayed":0,"winPercentage":null,"timePlayed":194},
 {"player":"DarthKcaj-1443","hero":"reinhardt","time":1792843200000,"eliminations":51,"deaths":25,"assists":1,"healingDone":null,"healingPer10Min":null,"gamesWon":2,"gamesPlayed":4,"winPercentage":62,"timePlayed":2304},
-{"player":"DarthKcaj-1443","hero":"sierra","time":1792818807585,"eliminations":2,"deaths":2,"assists":1,"healingDone":null,"healingPer10Min":null,"gamesWon":0,"gamesPlayed":0,"winPercentage":100,"timePlayed":112},
+{"player":"DarthKcaj-1443","hero":"sierra","time":1792821232699,"eliminations":2,"deaths":2,"assists":1,"healingDone":null,"healingPer10Min":null,"gamesWon":0,"gamesPlayed":0,"winPercentage":100,"timePlayed":112},
 {"player":"DarthKcaj-1443","hero":"sigma","time":1792843200000,"eliminations":null,"deaths":1,"assists":null,"healingDone":null,"healingPer10Min":null,"gamesWon":0,"gamesPlayed":0,"winPercentage":null,"timePlayed":56},
 {"player":"DarthKcaj-1443","hero":"symmetra","time":1792843200000,"eliminations":1,"deaths":2,"assists":1,"healingDone":9,"healingPer10Min":74.84,"gamesWon":2,"gamesPlayed":0,"winPercentage":null,"timePlayed":71},
 {"player":"DarthKcaj-1443","hero":"torbjorn","time":1792843200000,"eliminations":138,"deaths":64,"assists":6,"healingDone":null,"healingPer10Min":null,"gamesWon":6,"gamesPlayed":8,"winPercentage":75,"timePlayed":5358},

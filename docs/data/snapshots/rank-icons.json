@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1792818604000,
+  "generatedAt": 1792936475424,
   "divisions": {
     "bronze": {
       "url": "https://static.playoverwatch.com/images/pages/career/icons/rank/Rank_BronzeTier.f46bc3540601455a7768761396f9310d805052ad.png",
@@ -21,7 +21,7 @@
   "tiers": {
     "1": {
       "url": "https://static.playoverwatch.com/images/pages/career/icons/rank/TierDivision_1.10f427bf8f2f16171ce550a90c29626b438f6efd.png",
-      "season": 23
+      "season": 25
     },
     "2": {
       "url": "https://static.playoverwatch.com/images/pages/career/icons/rank/TierDivision_2.0e5d1cfda796f7b4362ef2ffa8a1053c20afa5af.png",
@@ -29,6 +29,10 @@
     },
     "3": {
       "url": "https://static.playoverwatch.com/images/pages/career/icons/rank/TierDivision_3.e9d892e479ca14e5543e71762459d11674504ed0.png",
+      "season": 25
+    },
+    "4": {
+      "url": "https://static.playoverwatch.com/images/pages/career/icons/rank/TierDivision_4.a86ba72795dcef9e04b6346163d3369eec13393f.png",
       "season": 25
     },
     "5": {

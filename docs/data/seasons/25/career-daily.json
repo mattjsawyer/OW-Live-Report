@@ -1,4 +1,4 @@
-{"season":25,"generatedAt":1794705492584,"rows":[
+{"season":25,"generatedAt":1794760454587,"rows":[
 {"player":"DarthKcaj-1443","day":1791417600000,"eliminations":162,"deaths":36,"assists":63,"gamesWon":4,"gamesPlayed":4},
 {"player":"DarthKcaj-1443","day":1791504000000,"eliminations":290,"deaths":89,"assists":81,"gamesWon":8,"gamesPlayed":12},
 {"player":"DarthKcaj-1443","day":1791590400000,"eliminations":403,"deaths":160,"assists":199,"gamesWon":15,"gamesPlayed":24},
@@ -37,5 +37,5 @@
 {"player":"DarthKcaj-1443","day":1794441600000,"eliminations":2442,"deaths":1157,"assists":922,"gamesWon":66,"gamesPlayed":139},
 {"player":"DarthKcaj-1443","day":1794528000000,"eliminations":2442,"deaths":1157,"assists":922,"gamesWon":66,"gamesPlayed":139},
 {"player":"DarthKcaj-1443","day":1794614400000,"eliminations":2442,"deaths":1157,"assists":922,"gamesWon":66,"gamesPlayed":139},
-{"player":"DarthKcaj-1443","day":1794700800000,"eliminations":2442,"deaths":1157,"assists":922,"gamesWon":66,"gamesPlayed":139}
+{"player":"DarthKcaj-1443","day":1794700800000,"eliminations":2644,"deaths":1255,"assists":969,"gamesWon":71,"gamesPlayed":153}
 ]}

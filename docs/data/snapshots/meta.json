@@ -1,7 +1,7 @@
 {
   "layoutVersion": 2,
-  "generatedAt": 1795197590001,
-  "heartbeatAt": 1795197590001,
+  "generatedAt": 1795229309079,
+  "heartbeatAt": 1795229309079,
   "gamemode": "competitive",
   "platform": "pc",
   "players": [
@@ -52,11 +52,11 @@
     {
       "season": 25,
       "firstDay": 1791417600000,
-      "lastDay": 1795132800000
+      "lastDay": 1795219200000
     }
   ],
   "lastPoll": {
-    "at": 1795197590001,
+    "at": 1795229309079,
     "source": "poll",
     "ok": [
       "Kieness-6123",

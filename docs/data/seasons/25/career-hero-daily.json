@@ -1,4 +1,4 @@
-{"season":25,"generatedAt":1795311232115,"rows":[
+{"season":25,"generatedAt":1795368192734,"rows":[
 {"player":"DarthKcaj-1443","hero":"mauga","day":1791417600000,"eliminations":53,"deaths":7,"assists":19,"gamesPlayed":1,"timePlayed":1069},
 {"player":"DarthKcaj-1443","hero":"orisa","day":1791417600000,"eliminations":71,"deaths":16,"assists":15,"gamesPlayed":2,"timePlayed":1567},
 {"player":"DarthKcaj-1443","hero":"reinhardt","day":1791417600000,"eliminations":7,"deaths":1,"assists":35,"gamesPlayed":0,"timePlayed":113},
@@ -1622,16 +1622,16 @@
 {"player":"DarthKcaj-1443","hero":"kiriko","day":1795305600000,"eliminations":10,"deaths":15,"assists":24,"gamesPlayed":2,"timePlayed":1328},
 {"player":"DarthKcaj-1443","hero":"lifeweaver","day":1795305600000,"eliminations":34,"deaths":32,"assists":77,"gamesPlayed":7,"timePlayed":3659},
 {"player":"DarthKcaj-1443","hero":"lucio","day":1795305600000,"eliminations":16,"deaths":10,"assists":11,"gamesPlayed":1,"timePlayed":617},
-{"player":"DarthKcaj-1443","hero":"mauga","day":1795305600000,"eliminations":150,"deaths":56,"assists":57,"gamesPlayed":7,"timePlayed":4705},
+{"player":"DarthKcaj-1443","hero":"mauga","day":1795305600000,"eliminations":164,"deaths":60,"assists":60,"gamesPlayed":7,"timePlayed":5120},
 {"player":"DarthKcaj-1443","hero":"mei","day":1795305600000,"eliminations":307,"deaths":156,"assists":131,"gamesPlayed":19,"timePlayed":11965},
 {"player":"DarthKcaj-1443","hero":"mercy","day":1795305600000,"eliminations":5,"deaths":57,"assists":206,"gamesPlayed":7,"timePlayed":5244},
 {"player":"DarthKcaj-1443","hero":"mizuki","day":1795305600000,"eliminations":60,"deaths":50,"assists":71,"gamesPlayed":7,"timePlayed":3910},
 {"player":"DarthKcaj-1443","hero":"moira","day":1795305600000,"eliminations":32,"deaths":6,"assists":21,"gamesPlayed":1,"timePlayed":715},
-{"player":"DarthKcaj-1443","hero":"orisa","day":1795305600000,"eliminations":625,"deaths":150,"assists":112,"gamesPlayed":24,"timePlayed":15872},
+{"player":"DarthKcaj-1443","hero":"orisa","day":1795305600000,"eliminations":627,"deaths":156,"assists":113,"gamesPlayed":25,"timePlayed":16193},
 {"player":"DarthKcaj-1443","hero":"pharah","day":1795305600000,"eliminations":49,"deaths":41,"assists":5,"gamesPlayed":4,"timePlayed":2501},
-{"player":"DarthKcaj-1443","hero":"ramattra","day":1795305600000,"eliminations":344,"deaths":108,"assists":35,"gamesPlayed":15,"timePlayed":9991},
+{"player":"DarthKcaj-1443","hero":"ramattra","day":1795305600000,"eliminations":372,"deaths":118,"assists":38,"gamesPlayed":16,"timePlayed":10982},
 {"player":"DarthKcaj-1443","hero":"reaper","day":1795305600000,"eliminations":1,"deaths":4,"assists":null,"gamesPlayed":0,"timePlayed":194},
-{"player":"DarthKcaj-1443","hero":"reinhardt","day":1795305600000,"eliminations":243,"deaths":97,"assists":17,"gamesPlayed":13,"timePlayed":8554},
+{"player":"DarthKcaj-1443","hero":"reinhardt","day":1795305600000,"eliminations":262,"deaths":105,"assists":21,"gamesPlayed":14,"timePlayed":9199},
 {"player":"DarthKcaj-1443","hero":"sierra","day":1795305600000,"eliminations":2,"deaths":2,"assists":1,"gamesPlayed":0,"timePlayed":112},
 {"player":"DarthKcaj-1443","hero":"sigma","day":1795305600000,"eliminations":4,"deaths":2,"assists":null,"gamesPlayed":0,"timePlayed":211},
 {"player":"DarthKcaj-1443","hero":"soldier-76","day":1795305600000,"eliminations":2,"deaths":3,"assists":1,"gamesPlayed":0,"timePlayed":114},
@@ -1641,6 +1641,6 @@
 {"player":"DarthKcaj-1443","hero":"widowmaker","day":1795305600000,"eliminations":null,"deaths":1,"assists":null,"gamesPlayed":0,"timePlayed":56},
 {"player":"DarthKcaj-1443","hero":"winston","day":1795305600000,"eliminations":203,"deaths":69,"assists":35,"gamesPlayed":10,"timePlayed":6587},
 {"player":"DarthKcaj-1443","hero":"wuyang","day":1795305600000,"eliminations":10,"deaths":8,"assists":15,"gamesPlayed":1,"timePlayed":626},
-{"player":"DarthKcaj-1443","hero":"zarya","day":1795305600000,"eliminations":192,"deaths":71,"assists":107,"gamesPlayed":9,"timePlayed":6717},
+{"player":"DarthKcaj-1443","hero":"zarya","day":1795305600000,"eliminations":201,"deaths":75,"assists":112,"gamesPlayed":9,"timePlayed":7019},
 {"player":"DarthKcaj-1443","hero":"zenyatta","day":1795305600000,"eliminations":50,"deaths":22,"assists":79,"gamesPlayed":4,"timePlayed":2316}
 ]}

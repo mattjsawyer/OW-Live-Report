@@ -1,7 +1,7 @@
 {
   "layoutVersion": 2,
-  "generatedAt": 1795399054667,
-  "heartbeatAt": 1795399054667,
+  "generatedAt": 1795469971344,
+  "heartbeatAt": 1795469971344,
   "gamemode": "competitive",
   "platform": "pc",
   "players": [
@@ -56,7 +56,7 @@
     }
   ],
   "lastPoll": {
-    "at": 1795399054667,
+    "at": 1795469971344,
     "source": "poll",
     "ok": [
       "Kieness-6123",
